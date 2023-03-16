@@ -1,0 +1,15 @@
+name=Tweak Totally's Additonal Military Textures Insulation
+id=SSP-TweakTIAMT
+
+description=Update values on Desert and Urban helmets and desert bulletproof vest from Totally's Additonal Military Textures. Desert camo bulletproof vest, same stats as Civilian vest, less insulation and wind resistance. Desert helmet, no insulation. Urban helmet increase insulation by 10 from standard military helmet. Better Sorting support.
+
+
+modversion=0.2.0
+
+require=ItemTweakerAPI,TIAMT
+
+authors=SenorSmartyPants
+poster=poster.png
+url=https://github.com/SenorSmartyPants/XXXX
+
+tags=Build 41;Clothing/Armor;Items;Models;Realistic
